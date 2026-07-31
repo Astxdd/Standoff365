@@ -59,7 +59,9 @@ PORT   STATE SERVICE
 ## 2. Находим GraphQL
 
 В Burp видно запросы к GraphQL-эндпоинту.
-![[Pasted image 20260729134936.png]]
+
+<img width="1920" height="883" alt="image" src="https://github.com/user-attachments/assets/a6c74503-13a2-4acf-be11-7c71b7f2ad66" />
+
 
 > [!TIP]
 > Introspection — служебный запрос протокола: «покажи всю схему API».  
@@ -140,7 +142,8 @@ query { searchCompanies(query: "' UNION SELECT flag FROM secret -- -") }
 | `-- -` | закомментировать `ORDER BY … LIMIT 10` |
 
 Забираем **200** баллов.
-![[Pasted image 20260729135609.png]]
+<img width="1920" height="883" alt="image" src="https://github.com/user-attachments/assets/fda1e813-2c7b-41b0-af3a-9e33ea5d9c20" />
+
 
 ---
 
