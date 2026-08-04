@@ -10,7 +10,7 @@
 - [x] [Ftender](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Ftender.md)
 - [x] [Parrhesia](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Parrhesia.md)
 - [x] [Corp-wiki](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Corp-wiki.md)
-- [ ] [City](https://github.com/Astxdd/Standoff365/blob/main/Standalone/City.md)
+- [x] [City](https://github.com/Astxdd/Standoff365/blob/main/Standalone/City.md)
 
 **Прогресс: 5 / 22** 
 
