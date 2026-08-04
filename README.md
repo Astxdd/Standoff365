@@ -6,9 +6,9 @@
 
 ##  Сделано
 
-- [x] [Devportal](https://github.com/Astxdd/Standoff365/blob/main/Standalone/devportal.md)
-- [x] [Ftender](https://github.com/Astxdd/Standoff365/blob/main/Standalone/ftender.md)
-- [x] [Parrhesia](https://github.com/Astxdd/Standoff365/blob/main/Standalone/parrhesia.md)
+- [x] [Devportal](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Devportal.md)
+- [x] [Ftender](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Ftender.md)
+- [x] [Parrhesia](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Parrhesia.md)
 - [x] [Corp-wiki](https://github.com/Astxdd/Standoff365/blob/main/Standalone/corp-wiki.md)
 
 
