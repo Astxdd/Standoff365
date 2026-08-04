@@ -9,7 +9,7 @@
 - [x] [Devportal](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Devportal.md)
 - [x] [Ftender](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Ftender.md)
 - [x] [Parrhesia](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Parrhesia.md)
-- [x] [Corp-wiki](https://github.com/Astxdd/Standoff365/blob/main/Standalone/corp-wiki.md)
+- [x] [Corp-wiki](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Corp-wiki.md)
 
 
 **Прогресс: 4 / 22** 
