@@ -11,8 +11,9 @@
 - [x] [Parrhesia](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Parrhesia.md)
 - [x] [Corp-wiki](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Corp-wiki.md)
 - [x] [City](https://github.com/Astxdd/Standoff365/blob/main/Standalone/City.md)
-
-**Прогресс: 5 / 22** 
+- [x] [RND](https://github.com/Astxdd/Standoff365/blob/main/Standalone/RND.md)
+- [x] [Techcongress](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Techcongress.md)
+**Прогресс: 7 / 22** 
 
 
 
@@ -25,15 +26,12 @@
 - [ ] Unlovable
 - [ ] Wickedin
 - [ ] Messenger
-- [ ] RND
 - [ ] Tube
 - [ ] Rawmatex
 - [ ] Board
-- [ ] Fastship
-- [ ] Techcongress
 - [ ] Carbon
 - [ ] Portal
 - [ ] Pharmacy
 - [ ] Casino
-
+- [ ] Fastship
 
