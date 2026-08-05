@@ -13,7 +13,8 @@
 - [x] [City](https://github.com/Astxdd/Standoff365/blob/main/Standalone/City.md)
 - [x] [RND](https://github.com/Astxdd/Standoff365/blob/main/Standalone/RND.md)
 - [x] [Techcongress](https://github.com/Astxdd/Standoff365/blob/main/Standalone/Techcongress.md)
-**Прогресс: 7 / 22** 
+- [x] [Casino](https://github.com/Astxdd/Standoff365/blob/main/Casino.md)
+**Прогресс: 8 / 22** 
 
 
 
@@ -32,6 +33,5 @@
 - [ ] Carbon
 - [ ] Portal
 - [ ] Pharmacy
-- [ ] Casino
 - [ ] Fastship
 
